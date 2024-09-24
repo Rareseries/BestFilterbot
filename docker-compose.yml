@@ -3,10 +3,10 @@ services:
    worker:
     build: .
     environment:
-      API_ID: $API_ID
-      API_HASH: $API_HASH
-      BOT_TOKEN: $BOT_TOKEN
-      ADMINS: $ADMINS
-      UPDATE_CHANNEL: $UPDATE_CHANNEL
+      API_ID: 23508921
+      API_HASH: 70e3ec4bc651ba1c64371003e3c04b6c
+      BOT_TOKEN: 8054854697:AAFsq-XEiA-ENcctknj9sESiQkqR2T8kx6w
+      ADMINS: 5710180559
+      UPDATE_CHANNEL: mkvindiaott
       DATABASE_NAME: $DATABASE_NAME
-      DATABASE_URI: $DATABASE_URI
+      DATABASE_URI: mongodb+srv://manasgiri280:manasgiri280@cluster0.g7hrl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
